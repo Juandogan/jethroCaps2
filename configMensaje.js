@@ -9,7 +9,8 @@ module.exports = (formulario) => {
  secure: true,
  auth: {
  user: 'info@jethrocaps.com', // Cambialo por tu email
- pass: 'UNdianuevo1' // Cambialo por tu password
+ pass: 'BDWDTjqVPnjY526' // Cambialo por tu password
+        
  }
 
  });
