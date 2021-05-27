@@ -9,7 +9,7 @@ module.exports = (formulario) => {
  secure: true,
  auth: {
  user: 'info@jethrocaps.com', // Cambialo por tu email
- pass: 'BDWDTjqVPnjY526' // Cambialo por tu password
+ pass: 'PatricioRobles1' // Cambialo por tu password
         
  }
 
